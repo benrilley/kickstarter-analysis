@@ -15,6 +15,7 @@
 ### Outcomes based on Goals: Again, as I stated previously, the productions that set out seeking the least money were the most successful. Assumptiously due to ability to do more with less and the power of reasonable expectations, every production isn't going to be *Wicked* on Broadway. 
 
 ### Some limitations of this data set are that its relatively small. A better analysis could be given with more data, over more years. 
-### Another chart we could make is
+### I can't think of any better graphs to include for this assignment. Compared to Outcomes vs goals and theater outcomes vs launch, everything I could think of seemed redundant or impractical. 
+
 
 
